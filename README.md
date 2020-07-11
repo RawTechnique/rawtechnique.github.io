@@ -1,1 +1,1 @@
-Thanks to MCApollo for the help, and making this happen!
+Please find the new repo at https://github.com/unfriendly
