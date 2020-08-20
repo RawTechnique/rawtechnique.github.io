@@ -1,9 +1,9 @@
-Origin: DEAD REPO UPDATE unfriendly.net
-Label: DEAD REPO UPDATE unfriendly.net/Homebrew
+Origin: Compute/repo
+Label: Compute/Homebrew
 Suite: stable
 Version: 2.7-Final
 Architectures: iphoneos-arm
 Components: main
-Codename: DEAD REPO UPDATE unfriendly.net
+Codename: Use unfriendly.github.io/repo
 Description: Please find the new repo at unfriendly.net
 
