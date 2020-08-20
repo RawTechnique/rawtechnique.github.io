@@ -1,9 +1,9 @@
-Origin: Compute
-Label: Compute/Homebrew
+Origin: DEAD REPO UPDATE unfriendly.net
+Label: DEAD REPO UPDATE unfriendly.net/Homebrew
 Suite: stable
 Version: 2.7-Final
 Architectures: iphoneos-arm
 Components: main
-Codename: Computate
-Description: Pentesting and Random Tools
+Codename: DEAD REPO UPDATE unfriendly.net
+Description: Please find the new repo at unfriendly.net
 
